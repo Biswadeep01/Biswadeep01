@@ -2,4 +2,4 @@
 - 👀 I’m interested in Full stack Web Development
 - 🌱 I’m currently in learning state
 - 📫 Reach me at biswadeep.mukhopadhyay00@gmail.com 
-- 🌏 Portfolio - https://portfolio-biswadeep-mukhopadhyay.netlify.app/
+- 🌏 Portfolio - https://biswadeep-portfolio.netlify.app/
