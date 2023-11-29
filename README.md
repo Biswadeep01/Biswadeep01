@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Biswadeep Mukhopadhyay (@Biswadeep01)
-- 👀 I’m interested in Full stack Web Development
+- 👀 Computer Geek || Coder
 - 🌱 I’m currently in learning state
 - 📫 Reach me at biswadeep.mukhopadhyay00@gmail.com 
 - 🌏 Portfolio - https://biswadeep01.github.io/
